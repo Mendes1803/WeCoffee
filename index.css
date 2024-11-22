@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
 @font-face {
     font-family: 'TAN-NIMBUS';
-    src: url('TAN_Nimbus/Web/TAN-NIMBUS.woff') format('woff');
-
+    src: url('TAN-NIMBUS.woff') format('woff');
 }
 *{
     margin: 0;
