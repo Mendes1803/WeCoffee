@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script:wght@400..700&family=Parisienne&family=Updock&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
-@font-face {
-    font-family: 'TAN-NIMBUS';
-    src: url('TAN-NIMBUS.woff') format('woff');
-}
+src: url('TAN-NIMBUS.woff2') format('woff2');
 *{
     margin: 0;
     padding: 0;
