@@ -1,0 +1,55 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(252, 174, 255);
+}
+.container {
+    text-align: center;
+    background: rgb(0, 0, 0);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 3px solid white;
+    margin: 50px;
+    position: relative;
+}
+h1 {
+    font-size: 36px;
+    color: rgb(255, 170, 0);
+    margin-bottom: 15px;
+    font-family: 'TAN - NIMBUS regular';
+}
+p {
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: 'Combo';
+    margin: 0;
+    color: rgb(255, 255, 255);
+}
+.btn {
+    display: inline-block;
+    padding: 10px 25px;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 170, 0);
+    text-decoration: none;
+    border-radius: 10px;
+    font-family: 'Combo';
+    font-weight: bold;
+    margin-top: 20px;
+}
+.btn:hover {
+    background-color: #ffdf6d;
+}
+img{
+    width: 50px;
+    left: 80%;
+    position: absolute;
+    bottom: 60%;
+}
