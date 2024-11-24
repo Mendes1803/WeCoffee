@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script:wght@400..700&family=Parisienne&family=Updock&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
-src: url('TAN-NIMBUS.woff2') format('woff2');
+@font-face {
+    font-family: 'TAN';
+    src: url('TAN-NIMBUS.ttf') format(truetype);
+    src: url('TAN-NIMBUS.woff') format(Web Open Font Format);
+    src: url('TAN-NIMBUS.woff2') format(Web Open Font Format 2);
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -21,7 +27,7 @@ header{
     padding: 40px 20px;
 }
 .span2{
-    font-family: 'TAN - NIMBUS regular';
+    font-family: 'TAN';
     font-size: 85px;
     color: rgb(255, 0, 217);
     text-shadow: 4px 2px 0px rgb(255, 255, 255);
@@ -86,14 +92,14 @@ h2{
     color: rgb(199, 0, 169);
     font-size: 37px;
     margin-bottom: 15px;
-    font-family: 'TAN - NIMBUS regular';
+    font-family: 'TAN';
     text-shadow: 5px 0 0 rgb(255, 170, 0);
 }
 .aqui{
     color: rgb(199, 0, 169);
     font-size: 37px;
     margin-bottom: 15px;
-    font-family: 'TAN - NIMBUS regular';
+    font-family: 'TAN';
     text-shadow: 5px 0 0 rgb(255, 170, 0);
     margin: 0;
 }
