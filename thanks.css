@@ -1,5 +1,4 @@
-/* Estilo geral */
-body {
+body{
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -9,7 +8,7 @@ body {
     height: 100vh;
     background-color: rgb(252, 174, 255);
 }
-.container {
+.obrigado{
     text-align: center;
     background: rgb(0, 0, 0);
     padding: 30px;
@@ -19,20 +18,20 @@ body {
     margin: 50px;
     position: relative;
 }
-h1 {
+h1{
     font-size: 36px;
     color: rgb(255, 170, 0);
     margin-bottom: 15px;
     font-family: 'TAN - NIMBUS regular';
 }
-p {
+p{
     font-size: 25px;
     margin-bottom: 20px;
     font-family: 'Combo';
     margin: 0;
     color: rgb(255, 255, 255);
 }
-.btn {
+.btn{
     display: inline-block;
     padding: 10px 25px;
     font-size: 16px;
@@ -44,7 +43,7 @@ p {
     font-weight: bold;
     margin-top: 20px;
 }
-.btn:hover {
+.btn:hover{
     background-color: #ffdf6d;
 }
 img{
