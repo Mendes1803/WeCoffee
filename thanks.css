@@ -29,7 +29,7 @@ h1{
     font-size: 36px;
     color: rgb(255, 170, 0);
     margin-bottom: 15px;
-    font-family: 'TAN - NIMBUS regular';
+    font-family: 'TAN';
 }
 p{
     font-size: 25px;
@@ -49,6 +49,9 @@ p{
     font-family: 'Combo';
     font-weight: bold;
     margin-top: 20px;
+}
+a{
+    font-family: 'Combo';
 }
 .btn:hover{
     background-color: #ffdf6d;
