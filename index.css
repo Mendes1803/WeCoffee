@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script:wght@400..700&family=Parisienne&family=Updock&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
-@font-face {
+@font-face{
     font-family: 'TAN';
     src: url('TAN-NIMBUS.ttf') format(truetype);
     src: url('TAN-NIMBUS.woff') format(Web Open Font Format);
@@ -134,6 +134,7 @@ h2{
     color: transparent;
     border: 5px solid rgb(199, 0, 169);
 }
+/* JÁ N AGENTO MAIS, ACABA PLMDS */
 .s2 p{
     font-size: 25px;
     hyphens: auto;
@@ -163,6 +164,7 @@ input, .mensagem{
     margin: 8px 0;
     border-radius: 15px;
     border: 5px solid rgb(255, 196, 0);
+    resize: none;
 }
 footer{
     width: 100%;
